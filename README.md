@@ -1,16 +1,21 @@
-### Hi there 👋
+# ¡Hola, soy Nate!
 
-<!--
-**Hadronzz/Hadronzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Descripción.
 
-Here are some ideas to get you started:
+- 🥋 Ahora mismo me encuentro cursando el Bootcamp de JS Full Stack de Undefined Shell.
+- 💻 Estudiante de Ingenieria en Sistemas Computacionales.
+- 🤔 Busco algún mentor, aprendo rápido y soporto la frustación. 
+- 📫 Contacto: [Perfíl de FB](https://www.facebook.com/Riverongas)
+- 😄 Me llamo Christopher pero me pueden decir Hadronz o Rivers.
+- ⚡ Fun fact: Para poder concluir mi educación media superior tenía que elegir una capacitación, entre las opciones estaba gestión de capital humano, contabilidad o informatica, cómo las primeras dos me parecían sumamente aburridas incursione en este mundo sin saber al vacio al que me tiraba, por fortuna se me dió muy fácil y aquí estamos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Comandos Linux
+| Cmando | Descripción                                                                 |
+|--------| --------------------------------------------------------------------------- |
+| pwd    | Sirve para verificar el directorio en el que "nos" encontramos posicionados.|
+| cd     | Sirve para cambiar de directorio.                                           |
+| cp -r  | Sirve para copiar archivos.                                                 |
+| rm -r  | Sirve para eliminar una carpeta.                                            |
+| cat    | Sirve para ver el contenido de un archivo.                                  |
+
